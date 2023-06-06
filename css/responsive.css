@@ -1,0 +1,330 @@
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+  .container {
+	    width: 100%;
+	    margin: 0px auto;
+	   }
+
+	.col-4 {
+	    width: 100%;
+	    float: left;
+	}
+   .col-6 {
+	    width: 100%;
+	    float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		display: block;
+		text-align: center;
+	}
+	.nav-menu{
+		text-align: center;
+	}
+	.nav-menu li a{
+		display: block;
+		font-size: 10px;
+		margin: 10px 5px 0px;
+	}
+	.banner{
+		padding: 40px 0px;
+	}
+	.banner h1{
+		font-size: 26px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+	.successfully{
+		width: 100%;
+		padding: 10px 0px 30px;
+	}
+	.left-text{
+		text-align: left;
+	}
+	.left-text h1{
+		font-size:26px;
+		line-height: 1.2em;
+		margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+		font-size: 10px;
+		line-height: 1.7em;
+		margin: 0px 0px 0px 20px;
+	}
+	.right-text h1{
+		font-size: 26px;
+		line-height: 1.2em;
+		margin: 0px  0px 0px 20px;
+	}
+	.feature{
+		padding: 0px 0px 20px;
+	}
+	.inner-feature{
+		width: 60%;
+		margin: 0px 15px 15px;
+	}
+	.inner-feature h4{
+		font-size: 18px;
+	}
+	.inner-feature p{
+		font-size: 10px;
+	}
+	.footer{
+		padding: 10px 0px;
+	}
+	.footer p{
+		font-size: 10px;
+	}
+	.footer strong{
+		font-weight: 600;
+	}
+  /* CSS */
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  	.container {
+	    width: 100%;
+	    margin: 0px auto;
+	   }
+
+	.col-4 {
+	    width: 100%;
+	    float: left;
+	}
+   .col-6 {
+	    width: 100%;
+	    float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		display: block;
+		text-align: center;
+	}
+	.nav-menu{
+		text-align: center;
+	}
+	.nav-menu li a{
+		display: block;
+		font-size: 12px;
+	}
+	.banner{
+		padding: 40px 0px;
+	}
+	.banner h1{
+		font-size: 28px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+	.successfully{
+		width: 100%;
+		padding: 10px 0px 30px;
+	}
+	.left-text{
+		text-align: left;
+	}
+	.left-text h1{
+		font-size:28px;
+		line-height: 1.2em;
+		margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+		font-size: 12px;
+		line-height: 1.7em;
+		margin: 0px 0px 0px 20px;
+	}
+	.right-text h1{
+		font-size: 28px;
+		line-height: 1.2em;
+		margin: 0px  0px 0px 20px;
+	}
+	.feature{
+		padding: 0px 0px 20px;
+	}
+	.inner-feature{
+		margin: 0px 15px 15px;
+	}
+	.inner-feature h4{
+		font-size: 20px;
+	}
+	.inner-feature p{
+		font-size: 12px;
+	}
+	.footer{
+		padding: 10px 0px;
+	}
+	.footer p{
+		font-size: 12px;
+	}
+	.footer strong{
+		font-weight: 600;
+	}
+	
+	  /* CSS */
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .container {
+	    width: 100%;
+	    margin: 0px auto;
+	   }
+	   
+	.col-4 {
+	    width: 100%;
+	    float: left;
+	}
+   .col-6 {
+	    width: 100%;
+	    float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.header .logo{
+		display: block;
+		text-align: center;
+	}
+	.nav-menu{
+		text-align: center;
+	}
+	.nav-menu li a{
+		display: block;
+		font-size: 13px;
+	}
+	.banner{
+		padding: 50px 0px;
+	}
+	.banner h1{
+		font-size: 30px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+	.successfully{
+		width: 100%;
+		padding: 10px 0px 40px;
+	}
+	.left-text{
+		text-align: left;
+	    margin: 0px 0px 0px 20px;
+	}
+	.left-text h1{
+		font-size:30px;
+		line-height: 1.2em;
+		margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+		font-size: 13px;
+		line-height: 1.7em;
+		margin: 0px 0px 0px 20px;
+	}
+	.right-text{
+		margin: 0px 0px 0px 20px;
+	}
+	.right-text h1{
+		font-size: 30px;
+		line-height: 1.2em;
+		margin: 0px  0px 0px 20px;
+	}
+	.feature{
+		padding: 0px 0px 20px;
+		margin: 0px 0px 0px 20px;
+	}
+	.inner-feature{
+		margin: 0px 15px 15px;
+	}
+	.inner-feature h4{
+		font-size: 22px;
+	}
+	.inner-feature p{
+		font-size: 13px;
+	}
+	.footer{
+		padding: 20px 0px;
+	}
+	.footer p{
+		font-size: 13px;
+	}
+	.footer strong{
+		font-weight: 600;
+	}
+
+  /* CSS */ 
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .container {
+    width: 90%;
+    margin: 0px auto;
+   }
+   .nav-menu li a{
+   	font-size: 12px;
+   	line-height: 1.7em;
+   }
+   .right-text h1{
+   	font-size: 55px;
+   	line-height: 1.2em;
+   }
+   .col-4 {
+    width: 100%;
+    float: left;
+}
+	.inner-feature{
+	margin: 0px 0px 20px 60px;
+	}
+  /* CSS */  
+}
